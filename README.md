@@ -1,2 +1,3 @@
 `docker-compose up`
-docker exec -it <tag> /bin/sh
+
+`docker exec -it <tag> /bin/sh`
